@@ -1,3 +1,7 @@
+/* first try at hourglass code, but the spaces don't wory
+ * @author Annabel Sun
+ * @version November 2 2018
+ */
 
 public class BrokenHourglass {
 	public static void main (String[] args) {
